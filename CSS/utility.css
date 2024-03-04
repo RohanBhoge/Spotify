@@ -1,0 +1,66 @@
+.border {
+    border: solid red 2px;
+    margin: 3px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.invert {
+    filter: invert(1);
+}
+
+.bg-gray {
+    background-color: #121212;
+}
+
+.rounded {
+    border-radius: 7px;
+}
+
+.m-1 {
+    margin: 5px;
+}
+
+.p-1 {
+    padding: 20px;
+}
+
+
+/* WebKit (Safari, Chrome) */
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #333;
+}
+
+/* Firefox */
+/* Please note that Firefox currently (as of my last update) doesn't support styling scrollbar-thumb directly, but you can style the scrollbar-track */
+/* Uncomment the following code if Firefox supports scrollbar-thumb styling in the future */
+/*
+    * {
+        scrollbar-color: #333 #1a1a1a;
+    }
+    */
+
+/* Internet Explorer */
+/* Not supported */
+
+/* Edge */
+/* Not supported */
