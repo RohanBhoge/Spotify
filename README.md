@@ -13,17 +13,7 @@ Spotify Clone is a music streaming application designed to replicate the core fu
 ---
 
 ## Preview
-![Homepage Screenshot](spotify-assets/previewImg/homePage.png)
-*Homepage: Browse and play your favorite songs.*
-
-![Playlist Page](spotify-assets/previewImg/playlistPage.png)
-*Playlist Page: View and manage custom playlists.*
-
-![Login Page](spotify-assets/previewImg/loginPage.png)
-*Login Page: Secure user authentication.*
-
-![Now Playing Page](spotify-assets/previewImg/nowPlayingPage.png)
-*Now Playing: Interactive music player with playback controls.*
+![alt text](<img/Screenshot (24).png>)
 
 ---
 
